@@ -1,0 +1,17 @@
+
+<svg width="362px" height="72px" viewBox="0 0 362 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.700803895">
+        <g id="Capture-Data-Page" transform="translate(-75.000000, -115.000000)">
+            <g id="Profile-Synchronization" transform="translate(75.000000, 115.000000)">
+                <g id="Profile-Header">
+                    <g id="Background-Graphic">
+                        <path d="M362,72 L0,72 L0,30 C-2.02906125e-15,13.4314575 13.4314575,3.04359188e-15 30,0 L332,3.55271368e-15 C348.568542,5.09121799e-16 362,13.4314575 362,30 L362,72 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                        <path d="M187.930082,1.14892745e-06 L332,1.14892745e-06 C348.568542,1.14892745e-06 362,13.4314587 362,30.0000011 L362,72 L184.389472,72 C182.177551,62.4792972 181,52.4881042 181,42.1875005 C181,27.3188126 183.453577,13.0948214 187.930089,1.59872116e-14 Z" id="Combined-Shape" fill-opacity="0.91760077" fill="#85C0C0"></path>
+                        <path d="M69,9.2296806e-16 L294,6.20597927e-15 C271.224771,43.1056894 229.366876,72 181.5,72 C133.633124,72 91.7752288,43.1056894 69,4.73576733e-12 Z" id="Oval-4" fill-opacity="0.869423687" fill="#E78F88"></path>
+                        <path d="M181,72 L0,72 L3.55271368e-15,30 C1.52365243e-15,13.4314575 13.4314575,2.84876725e-12 30,2.84572366e-12 L160.462475,2.84370569e-12 C173.306888,20.3411854 180.895318,45.1765921 180.999998,72 Z" id="Oval-5" fill-opacity="0.92688519" fill="#FEE19D"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

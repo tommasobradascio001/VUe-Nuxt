@@ -1,0 +1,60 @@
+
+<svg width="49px" height="59px" viewBox="0 0 49 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <filter x="-0.9%" y="-13.3%" width="101.8%" height="126.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.909803922   0 0 0 0 0.909803922   0 0 0 0 0.909803922  0 0 0 1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sign-Up---Page" transform="translate(-45.000000, -18.000000)" fill-rule="nonzero">
+            <g id="Header" filter="url(#filter-1)">
+                <g id="Navigation-bar">
+                    <g id="Untitled-2" transform="translate(49.000000, 20.000000)">
+                        <g id="Group">
+                            <polygon id="Shape" fill="#E4D1B5" points="25.6351294 10.2215831 30.7392275 5.14636364 35.8431647 10.2215831"></polygon>
+                            <polygon id="Shape" fill="#DEDBC0" points="25.636898 0.0772194357 30.7408353 5.152279 25.636898 10.2274984"></polygon>
+                            <polygon id="Shape" fill="#E2CF74" points="15.4270941 10.2254201 20.5310314 5.15020063 25.6351294 10.2254201"></polygon>
+                            <polygon id="Shape" fill="#E8C452" points="15.4262902 0.0757805643 20.5303882 5.151 15.4262902 10.2260596"></polygon>
+                            <polygon id="Shape" fill="#DCD38F" points="25.6362549 10.2249404 20.5321569 5.149721 25.6362549 0.074661442"></polygon>
+                            <polygon id="Shape" fill="#E9CB78" points="25.6364157 0.0761003135 20.5323176 5.15131975 15.4283804 0.0761003135"></polygon>
+                            <polygon id="Shape" fill="#E57C46" points="5.21809412 10.2286176 10.3220314 5.15355799 15.4261294 10.2286176"></polygon>
+                            <polygon id="Shape" fill="#E89D45" points="15.4254863 10.2270188 10.321549 5.15195925 15.4254863 0.0767398119"></polygon>
+                            <polygon id="Shape" fill="#E7A974" points="5.21938039 20.3760188 10.3234784 15.3007994 15.4275765 20.3760188"></polygon>
+                            <polygon id="Shape" fill="#E5613F" points="5.21938039 10.2244608 10.3233176 15.2995204 5.21938039 20.3747398"></polygon>
+                            <polygon id="Shape" fill="#DE7946" points="15.427898 20.3768182 10.3238 15.3017586 15.427898 10.2265392"></polygon>
+                            <polygon id="Shape" fill="#A94423" points="15.4270941 10.2278182 10.3229961 15.3028777 5.21889804 10.2278182"></polygon>
+                            <polygon id="Shape" fill="#E77B45" points="5.21905882 20.3758589 0.115121569 15.3006395 5.21905882 10.2254201"></polygon>
+                            <polygon id="Shape" fill="#DAA72B" points="15.4283804 30.5238997 10.3242824 25.4486803 15.4283804 20.3734608"></polygon>
+                            <polygon id="Shape" fill="#CCB436" points="15.4280588 20.3742602 10.3239608 25.4494796 5.21986275 20.3742602"></polygon>
+                            <polygon id="Shape" fill="#E4A739" points="25.6401137 30.5277367 30.744051 25.4525172 35.848149 30.5277367"></polygon>
+                            <polygon id="Shape" fill="#EACA73" points="25.6422039 20.3779373 30.746302 25.4531567 25.6422039 30.5283762"></polygon>
+                            <polygon id="Shape" fill="#E5DA43" points="15.4288627 30.5237398 20.5329608 25.4485204 25.636898 30.5237398"></polygon>
+                            <polygon id="Shape" fill="#D9C431" points="15.4285412 20.3733009 20.5326392 25.4485204 15.4285412 30.5237398"></polygon>
+                            <polygon id="Shape" fill="#E8C339" points="25.6405961 30.5272571 20.5366588 25.4521975 25.6405961 20.3769781"></polygon>
+                            <polygon id="Shape" fill="#DBA02C" points="25.639149 20.3768182 20.5352118 25.4520376 15.4311137 20.3768182"></polygon>
+                            <polygon id="Shape" fill="#9FCDD1" points="35.8500784 30.5283762 40.9541765 35.6035956 35.8500784 40.6786552"></polygon>
+                            <polygon id="Shape" fill="#05576E" points="25.6430078 40.6762571 30.7469451 35.6011975 35.8510431 40.6762571"></polygon>
+                            <polygon id="Shape" fill="#18819C" points="25.6405961 30.5270972 30.7446941 35.6023166 25.6405961 40.6775361"></polygon>
+                            <polygon id="Shape" fill="#83B0B8" points="35.8486314 40.680094 30.7445333 35.6050345 35.8486314 30.529815"></polygon>
+                            <polygon id="Shape" fill="#5DBDB9" points="35.8512039 30.5266176 30.7471059 35.601837 25.6430078 30.5266176"></polygon>
+                            <polygon id="Shape" fill="#1F5964" points="25.6418824 40.6749781 30.7459804 45.7501975 25.6418824 50.8252571"></polygon>
+                            <polygon id="Shape" fill="#2B5B74" points="35.8521686 40.6767367 30.7480706 45.7519561 25.6439725 40.6767367"></polygon>
+                            <polygon id="Shape" fill="#3A4D4E" points="15.4420471 50.8402853 10.337949 45.7650658 15.4420471 40.6900063"></polygon>
+                            <polygon id="Shape" fill="#2A3519" points="15.4438157 40.689047 10.3397176 45.7641066 5.23561961 40.689047"></polygon>
+                            <polygon id="Shape" fill="#004B57" points="15.4397961 50.840605 20.5437333 45.7653856 25.6478314 50.840605"></polygon>
+                            <polygon id="Shape" fill="#0D6E8B" points="15.4404392 40.6882476 20.5443765 45.7633072 15.4404392 50.8385266"></polygon>
+                            <polygon id="Shape" fill="#015368" points="25.6439725 50.8383668 20.5398745 45.7633072 25.6439725 40.6880878"></polygon>
+                            <polygon id="Shape" fill="#015A6D" points="25.6481529 40.687768 20.5440549 45.7628276 15.4401176 40.687768"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
